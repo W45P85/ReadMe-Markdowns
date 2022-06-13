@@ -1,15 +1,19 @@
 # Read_me_markdowns
 
-## Heading1
-### Heading2
-###### Heading6
+# This is an <h1> tag
+## This is an <h2> tag
+###### This is an <h6> tag
+
 
 ## Emphasis
 *This text will be italic*\
 _This will also be italic_\
+
 **This text will be bold**\
 __This will also be bold__\
+
 *You **can** combine them*
+
 
 ## Unorderred Lists:-
 * Item 1
@@ -17,10 +21,46 @@ __This will also be bold__\
   * Item 2a
   * Item 2b
 
+
 ## Ordered List
 1. Item 1
 2. Item 2
 3. Item 3
 
+
 ## Links
 [GitHub](http://github.com)
+
+
+## Images
+![GitHub Logo](/images/logo.png)
+Format: ![Alt Text](url)
+
+
+## Links
+http://github.com - automatic!
+[GitHub](http://github.com)
+
+
+## Blockquotes
+As Kanye West said:
+> We're living the future so
+> the present is our past.
+
+
+## BACKSLASH ESCAPES
+\*literal asterisks\*
+
+### Markdown provides backslash escapes for the following characters:
+\ backslash
+` backtick
+* asterisk
+_ underscore
+{} curly braces
+[] square brackets
+() parentheses
+# hash mark
++ plus sign
+- minus sign (hyphen)
+. dot
+! exclamation mark
