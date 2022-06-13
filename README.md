@@ -1,1 +1,1 @@
- # Here are useful Git markdowns like a table of contents or markdown collection.   
+ # Here are useful Git markdowns like a table of contents and a markdown collection.   
