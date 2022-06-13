@@ -1,4 +1,4 @@
-Markdown Syntax
+#Markdown Syntax
 
 # This is an <h1> tag
 ## This is an <h2> tag
@@ -15,7 +15,7 @@ __This will also be bold__\
 *You **can** combine them*
 
 
-## Unorderred Lists:-
+## Unorderred Lists:
 * Item 1
 * Item 2
   * Item 2a
