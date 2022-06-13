@@ -1,5 +1,6 @@
 # Markdown Syntax
-Markdown is a way to style text on the web. You control the display of the document; formaing words as bold or italic, adding images, and creating lists are just a few of the things we can do with Markdown. Mostly, Markdown is just regular text with a few non-alphabetic characters thrown in, like # or *.
+Markdown is a way to style text on the web. You control the display of the document; formaing words as bold or italic, adding images, and creating lists 
+are just a few of the things we can do with Markdown. Mostly, Markdown is just regular text with a few non-alphabetic characters thrown in, like # or *.
 
 
 # This is an <h1> tag
@@ -66,3 +67,21 @@ _ underscore
 - minus sign (hyphen)
 . dot
 ! exclamation mark
+
+
+# GITHUB FLAVORED MARKDOWN
+GitHub.com uses its own version of the Markdown syntax that provides an additional set of useful features, many of which make it easier to work with 
+content on GitHub.com.
+
+## USERNAME @MENTIONS
+Typing an @ symbol, followed by a username, will notify that person to come and view the comment. This is called an “@mention”, because you’re mentioning 
+the individual. You can also @mention teams within an organization.
+
+## ISSUE REFERENCES
+Any number that refers to an Issue or Pull Request will be automatically converted into a link.
+
+## Task Lists
+- [x] @mentions, #refs, [links](), **formatting**, and <del>tags</del> supported
+- [x] list syntax required (any unordered or ordered list supported)
+- [x] this is a complete item
+- [ ] this is an incomplete item
